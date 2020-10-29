@@ -9,8 +9,6 @@ sections:
 - type: document
   path: pages/body
   label: body
-  match: "**/*"
-  read_only: false
 - type: heading
   label: Content
 - type: directory
